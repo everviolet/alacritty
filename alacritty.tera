@@ -1,0 +1,81 @@
+---
+whiskers:
+  version: ^2.0.0
+  matrix:
+    - flavor
+    - accent
+  filename: "themes/evergarden-{{flavor.identifier}}-{{accent}}.toml"
+---
+{% set accent = flavor.colors[accent] -%}
+## name: evergarden {{flavor.identifier}} {{accent.name}}
+## author: comfysage
+## license: GPL-3.0
+## blurb: a comfy colorscheme for cozy morning coding
+
+[colors.primary]
+background = "#{{base.hex}}"
+foreground = "#{{text.hex}}"
+dim_foreground = "#{{subtext0.hex}}"
+bright_foreground = "#{{text.hex}}"
+
+[colors.cursor]
+text = "#{{crust.hex}}"
+cursor = "#{{accent.hex}}"
+
+[colors.vi_mode_cursor]
+text = "#{{crust.hex}}"
+cursor = "#{{accent.hex}}"
+
+[colors.search.matches]
+foreground = "#{{orange.hex}}"
+background = "#{{crust.hex}}"
+
+[colors.search.focused_match]
+foreground = "#{{crust.hex}}"
+background = "#{{orange.hex}}"
+
+[colors.footer_bar]
+foreground = "#{{overlay2.hex}}"
+background = "#{{crust.hex}}"
+
+[colors.hints.start]
+foreground = "#{{crust.hex}}"
+background = "#{{yellow.hex}}"
+
+[colors.hints.end]
+foreground = "#{{crust.hex}}"
+background = "#{{subtext0.hex}}"
+
+[colors.selection]
+text = "#{{text.hex}}"
+background = "#{{surface1.hex}}"
+
+[colors.normal]
+black = "#{{base.hex}}"
+red = "#{{red.hex}}"
+green = "#{{green.hex}}"
+yellow = "#{{yellow.hex}}"
+blue = "#{{blue.hex}}"
+magenta = "#{{pink.hex}}"
+cyan = "#{{aqua.hex}}"
+white = "#{{text.hex}}"
+
+[colors.bright]
+black = "#{{surface0.hex}}"
+red = "#{{red.hex}}"
+green = "#{{green.hex}}"
+yellow = "#{{yellow.hex}}"
+blue = "#{{blue.hex}}"
+magenta = "#{{pink.hex}}"
+cyan = "#{{aqua.hex}}"
+white = "#{{subtext0.hex}}"
+
+[colors.dim]
+black = "#{{base.hex}}"
+red = "#{{red.hex}}"
+green = "#{{green.hex}}"
+yellow = "#{{yellow.hex}}"
+blue = "#{{blue.hex}}"
+magenta = "#{{pink.hex}}"
+cyan = "#{{aqua.hex}}"
+white = "#{{text.hex}}"
