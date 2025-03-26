@@ -1,0 +1,72 @@
+## name: evergarden summer purple
+## author: comfysage
+## license: GPL-3.0
+## blurb: a comfy colorscheme for cozy morning coding
+
+[colors.primary]
+background = "#e9ebf0"
+foreground = "#171c1f"
+dim_foreground = "#526469"
+bright_foreground = "#171c1f"
+
+[colors.cursor]
+text = "#d6dbe9"
+cursor = "#b19ac6"
+
+[colors.vi_mode_cursor]
+text = "#d6dbe9"
+cursor = "#b19ac6"
+
+[colors.search.matches]
+foreground = "#ca8c70"
+background = "#d6dbe9"
+
+[colors.search.focused_match]
+foreground = "#d6dbe9"
+background = "#ca8c70"
+
+[colors.footer_bar]
+foreground = "#63787d"
+background = "#d6dbe9"
+
+[colors.hints.start]
+foreground = "#d6dbe9"
+background = "#cbae75"
+
+[colors.hints.end]
+foreground = "#d6dbe9"
+background = "#526469"
+
+[colors.selection]
+text = "#171c1f"
+background = "#b4c6cc"
+
+[colors.normal]
+black = "#e9ebf0"
+red = "#c0696b"
+green = "#a9be88"
+yellow = "#cbae75"
+blue = "#8ca4bb"
+magenta = "#d0a3c3"
+cyan = "#91bb9c"
+white = "#171c1f"
+
+[colors.bright]
+black = "#ced9e0"
+red = "#c0696b"
+green = "#a9be88"
+yellow = "#cbae75"
+blue = "#8ca4bb"
+magenta = "#d0a3c3"
+cyan = "#91bb9c"
+white = "#526469"
+
+[colors.dim]
+black = "#e9ebf0"
+red = "#c0696b"
+green = "#a9be88"
+yellow = "#cbae75"
+blue = "#8ca4bb"
+magenta = "#d0a3c3"
+cyan = "#91bb9c"
+white = "#171c1f"
