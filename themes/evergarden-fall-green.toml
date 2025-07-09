@@ -11,11 +11,11 @@ bright_foreground = "#f8f9e8"
 
 [colors.cursor]
 text = "#171c1f"
-cursor = "#cae0a7"
+cursor = "#cbe3b3"
 
 [colors.vi_mode_cursor]
 text = "#171c1f"
-cursor = "#cae0a7"
+cursor = "#cbe3b3"
 
 [colors.search.matches]
 foreground = "#f7a182"
@@ -39,34 +39,34 @@ background = "#96b4aa"
 
 [colors.selection]
 text = "#f8f9e8"
-background = "#3d494d"
+background = "#374145"
 
 [colors.normal]
 black = "#232a2e"
 red = "#f57f82"
-green = "#cae0a7"
+green = "#cbe3b3"
 yellow = "#f5d098"
-blue = "#b2cfed"
+blue = "#b2caed"
 magenta = "#f3c0e5"
-cyan = "#addeb9"
+cyan = "#b3e3ca"
 white = "#f8f9e8"
 
 [colors.bright]
-black = "#313b40"
+black = "#2b3337"
 red = "#f57f82"
-green = "#cae0a7"
+green = "#cbe3b3"
 yellow = "#f5d098"
-blue = "#b2cfed"
+blue = "#b2caed"
 magenta = "#f3c0e5"
-cyan = "#addeb9"
+cyan = "#b3e3ca"
 white = "#96b4aa"
 
 [colors.dim]
 black = "#232a2e"
 red = "#f57f82"
-green = "#cae0a7"
+green = "#cbe3b3"
 yellow = "#f5d098"
-blue = "#b2cfed"
+blue = "#b2caed"
 magenta = "#f3c0e5"
-cyan = "#addeb9"
+cyan = "#b3e3ca"
 white = "#f8f9e8"
