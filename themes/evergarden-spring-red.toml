@@ -4,7 +4,7 @@
 ## blurb: a comfy colorscheme for cozy morning coding
 
 [colors.primary]
-background = "#2b3438"
+background = "#2b3538"
 foreground = "#f8f9e8"
 dim_foreground = "#96b4aa"
 bright_foreground = "#f8f9e8"
@@ -39,34 +39,34 @@ background = "#96b4aa"
 
 [colors.selection]
 text = "#f8f9e8"
-background = "#3e4a4f"
+background = "#3d494d"
 
 [colors.normal]
-black = "#2b3438"
+black = "#2b3538"
 red = "#f57f82"
-green = "#cbe3b3"
+green = "#cae0a7"
 yellow = "#f5d098"
-blue = "#b2caed"
+blue = "#b2cfed"
 magenta = "#f3c0e5"
-cyan = "#b3e3ca"
+cyan = "#addeb9"
 white = "#f8f9e8"
 
 [colors.bright]
-black = "#343e43"
+black = "#313b40"
 red = "#f57f82"
-green = "#cbe3b3"
+green = "#cae0a7"
 yellow = "#f5d098"
-blue = "#b2caed"
+blue = "#b2cfed"
 magenta = "#f3c0e5"
-cyan = "#b3e3ca"
+cyan = "#addeb9"
 white = "#96b4aa"
 
 [colors.dim]
-black = "#2b3438"
+black = "#2b3538"
 red = "#f57f82"
-green = "#cbe3b3"
+green = "#cae0a7"
 yellow = "#f5d098"
-blue = "#b2caed"
+blue = "#b2cfed"
 magenta = "#f3c0e5"
-cyan = "#b3e3ca"
+cyan = "#addeb9"
 white = "#f8f9e8"

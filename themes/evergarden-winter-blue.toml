@@ -4,18 +4,18 @@
 ## blurb: a comfy colorscheme for cozy morning coding
 
 [colors.primary]
-background = "#1e2528"
+background = "#1d2428"
 foreground = "#f8f9e8"
 dim_foreground = "#96b4aa"
 bright_foreground = "#f8f9e8"
 
 [colors.cursor]
 text = "#171c1f"
-cursor = "#b2caed"
+cursor = "#b2cfed"
 
 [colors.vi_mode_cursor]
 text = "#171c1f"
-cursor = "#b2caed"
+cursor = "#b2cfed"
 
 [colors.search.matches]
 foreground = "#f7a182"
@@ -39,34 +39,34 @@ background = "#96b4aa"
 
 [colors.selection]
 text = "#f8f9e8"
-background = "#374145"
+background = "#3d494d"
 
 [colors.normal]
-black = "#1e2528"
+black = "#1d2428"
 red = "#f57f82"
-green = "#cbe3b3"
+green = "#cae0a7"
 yellow = "#f5d098"
-blue = "#b2caed"
+blue = "#b2cfed"
 magenta = "#f3c0e5"
-cyan = "#b3e3ca"
+cyan = "#addeb9"
 white = "#f8f9e8"
 
 [colors.bright]
-black = "#262f33"
+black = "#2d393d"
 red = "#f57f82"
-green = "#cbe3b3"
+green = "#cae0a7"
 yellow = "#f5d098"
-blue = "#b2caed"
+blue = "#b2cfed"
 magenta = "#f3c0e5"
-cyan = "#b3e3ca"
+cyan = "#addeb9"
 white = "#96b4aa"
 
 [colors.dim]
-black = "#1e2528"
+black = "#1d2428"
 red = "#f57f82"
-green = "#cbe3b3"
+green = "#cae0a7"
 yellow = "#f5d098"
-blue = "#b2caed"
+blue = "#b2cfed"
 magenta = "#f3c0e5"
-cyan = "#b3e3ca"
+cyan = "#addeb9"
 white = "#f8f9e8"
